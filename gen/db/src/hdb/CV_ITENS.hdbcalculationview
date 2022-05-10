@@ -141,34 +141,34 @@
 <layout>
   <shapes>
     <shape expanded="true" modelObjectName="Output" modelObjectNameSpace="MeasureGroup">
-      <upperLeftCorner x="241" y="112"/>
+      <upperLeftCorner x="241.21650018073555" y="112"/>
     
       <rectangleSize width="160"/>
     </shape>
     
   
     <shape expanded="true" modelObjectName="PR_ITENS" modelObjectNameSpace="CalculationView">
-      <upperLeftCorner x="92" y="481"/>
+      <upperLeftCorner x="92.00000000000006" y="481.9999976158142"/>
       <rectangleSize height="30" width="160"/>
     </shape>
     <shape expanded="true" modelObjectName="PR_PRODUTOS" modelObjectNameSpace="CalculationView">
-      <upperLeftCorner x="302" y="481"/>
+      <upperLeftCorner x="302.0000000000001" y="481.9999976158142"/>
       <rectangleSize height="30" width="160"/>
     </shape>
     <shape expanded="true" modelObjectName="JN_ITENS_PRODUTOS" modelObjectNameSpace="CalculationView">
-      <upperLeftCorner x="222" y="341"/>
+      <upperLeftCorner x="222.93631278293594" y="341.9999988079071"/>
       <rectangleSize height="30" width="160"/>
     </shape>
     <shape modelObjectName="PR_ITENS" modelObjectNameSpace="JN_ITENS_PRODUTOS" modelObjectType="JoinNodeInput">
       <upperLeftCorner x="20" y="30"/>
-      <rectangleSize width="158"/>
+      <rectangleSize width="158.11767578125"/>
     </shape>
     <shape modelObjectName="PR_PRODUTOS" modelObjectNameSpace="JN_ITENS_PRODUTOS" modelObjectType="JoinNodeInput">
       <upperLeftCorner x="246" y="31"/>
-      <rectangleSize width="182"/>
+      <rectangleSize width="182.97509765625"/>
     </shape>
     <shape expanded="true" modelObjectName="PR_CALCULOS" modelObjectNameSpace="CalculationView">
-      <upperLeftCorner x="222" y="237"/>
+      <upperLeftCorner x="222.93631278293594" y="237"/>
       <rectangleSize height="30" width="160"/>
     </shape>
   </shapes>
